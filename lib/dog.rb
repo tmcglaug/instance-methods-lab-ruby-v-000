@@ -9,7 +9,7 @@ end
 
 def sits
 
-puts "The Dog is sitting
+puts "The Dog is sitting"
 
 end
 
